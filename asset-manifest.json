@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livechat/static/css/main.f855e6bc.css",
+    "main.js": "/livechat/static/js/main.e847e0bb.js",
+    "static/js/453.43189170.chunk.js": "/livechat/static/js/453.43189170.chunk.js",
+    "index.html": "/livechat/index.html",
+    "main.f855e6bc.css.map": "/livechat/static/css/main.f855e6bc.css.map",
+    "main.e847e0bb.js.map": "/livechat/static/js/main.e847e0bb.js.map",
+    "453.43189170.chunk.js.map": "/livechat/static/js/453.43189170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e847e0bb.js"
+  ]
+}
