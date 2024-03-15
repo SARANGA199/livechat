@@ -1,22 +1,29 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>Welcome to Live Chat</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Start chatting with our agents to get assistance.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        {/* Add your live chat component here */}
+        <div className="LiveChat">
+          {/* Your live chat component goes here */}
+          <img
+            src="https://res.cloudinary.com/donfmtaf4/image/upload/v1710487246/livechat_lsrs8i.jpg"
+            alt="Live Chat"
+            width="50%"
+            height="auto"
+          />
+        </div>
+        <p>
+          Powered by 
+            Falkon Systems
+          
+        </p>
       </header>
     </div>
   );
